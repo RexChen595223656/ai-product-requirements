@@ -1,0 +1,5 @@
+interface:
+  display_name: AI Product Requirements / AI 产品需求助手
+  short_description: Turn AI product ideas, Agent concepts, feedback, and PRDs into structured requirements, rules, data loops, reviews, and launch plans. 将 AI 产品想法、Agent 概念、反馈和 PRD 转成结构化需求、规则、数据闭环、评审和上线方案。
+  icon: brain-circuit
+  primary_color: "#4F46E5"
